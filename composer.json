@@ -1,0 +1,19 @@
+{
+  "name": "mustafa-m-ugur/n11-api-php",
+  "description": "N11 API PHP",
+  "type": "library",
+  "keywords": ["n11", "e-commerce", "api", "marketplaces"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mustafa UĞUR",
+      "email": "mustafa.m.ugur27@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "CMD\\": "CMD"
+    }
+  },
+  "minimum-stability": "stable"
+}
