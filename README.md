@@ -5,7 +5,7 @@
 
 ## Setup
 ```php
-composer require mustafa-m-ugur/n11-soap-api
+composer require mustafa-m-ugur/n11-api-php
 ```
 
 ## Client
