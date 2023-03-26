@@ -2,7 +2,7 @@
   "name": "mustafa-m-ugur/n11-api-php",
   "description": "N11 API PHP",
   "type": "library",
-  "keywords": ["n11", "e-commerce", "api", "marketplaces", "php"],
+  "keywords": ["n11", "e-commerce", "api", "marketplaces", "php", "integration"],
   "license": "MIT",
   "authors": [
     {
