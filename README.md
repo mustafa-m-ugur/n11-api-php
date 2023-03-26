@@ -51,8 +51,7 @@ $client->city->getDistrict(34);
 $client->city->getNeighborhoods(22569);
 ```
 
-
-### Kargo Şirketi Servisleri (ShipmentCompanyService)
+### ShipmentCompanyService
 
 ```php
 /**
