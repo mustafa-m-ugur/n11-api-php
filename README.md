@@ -364,13 +364,13 @@ $client->order->orderList(
 		// Sipariş Durumu   => New, Approved, Rejected, Shipped, Delivered, Completed, Claimed, LATE_SHIPMENT
 		'status'            => 'New',
 		// Alıcı Adı 
-		'buyerName'         => 'ismail',
+		'buyerName'         => 'mustafa',
 		// Sipariş Numarası
 		'orderNumber'       => 1234567890,
 		// Ürün Mağaza Kodu
 		'productSellerCode' => 'IS-20014',
 		// Teslim alacak kişinin adı
-		'recipient'         => 'ismail',
+		'recipient'         => 'mustafa',
 		// Sipariş oluşturma tarihi başlangıç
 		'period'            => array(
 			// Başlangıç Tarihi => d/m/Y H:i:s
